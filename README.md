@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm gdfmj, an curious tecnology user currently working on brazilian's São Paulo state's public education. I'm currently learning some programming stuffs, and at my leisure times I like to study some Linux and others free software stuffs. 
 <!--
 **gdfmj/gdfmj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
