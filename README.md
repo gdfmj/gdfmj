@@ -1,5 +1,13 @@
 ## Hi there 👋
-I'm gdfmj, a curious tecnology user currently working on brazilian's São Paulo state's public education as a teacher. I'm currently learning some programming stuffs, and at my leisure times I like to study some Linux and others free software stuffs. 
+I'm gdfmj, a curious tecnology user currently working on brazilian's São Paulo state's public education as a teacher. I'm currently learning some programming stuffs, and at my leisure times I like to study some Linux and others free software or open source stuffs.
+
+My academic speciality is not tecnology. I'm actually a Master's degree on Social Sciences, studying Antropology and ESG for getting some job on big corporates who will explore my workforce and get rich on me, but... Maybe it's not a good idea to talk about that things, but yeah, this isn't a LinkedIn description or something like that, so... 
+
+I don't know how much I can contribute on other people's projects on GitHub, but here I am... If I can help you with something, count on me.
+
+For now, I'll not let any information about how someone could reach me, but if I change my idea about it I will update this document with email, discord or something.
+
+That's it, thank you guys and come on!
 <!--
 **gdfmj/gdfmj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
